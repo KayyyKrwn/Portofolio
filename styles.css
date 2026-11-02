@@ -114,6 +114,8 @@ button{font-family:inherit}
 .github-profile b{font-size:14px;display:block}
 .github-profile small{font-size:10px;color:#9aa0b4;display:block;margin-top:3px}
 .github-profile .go{margin-left:auto;color:#c490ff;font-size:20px}
+.li-badge{width:52px;height:52px;min-width:52px;border-radius:12px;background:#0A66C2;color:#fff;display:grid;place-items:center;font-weight:800;font-size:22px;letter-spacing:-.05em;border:1px solid rgba(255,255,255,.15)}
+.github-profile + .github-profile{border-top:1px solid rgba(255,255,255,.06);padding-top:12px}
 
 /* ---------- home bottom ---------- */
 .home-bottom{display:grid;grid-template-columns:252px 1.64fr .92fr;gap:12px;margin-top:4px}
